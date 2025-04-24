@@ -29,7 +29,6 @@ Praticar a criação de uma instância de banco de dados na nuvem com o Azure SQ
 ### 7. Implantação concluída
 ![Implantação concluída](images/implantar-banco-dados-concluida.png)
 
-
 ## 📚 Aprendizados
 
 - Criação de SQL Server gerenciado no Azure
