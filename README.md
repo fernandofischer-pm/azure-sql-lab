@@ -8,24 +8,27 @@ Praticar a criação de uma instância de banco de dados na nuvem com o Azure SQ
 
 ## 🛠️ Etapas realizadas
 
-### 1. Criar servidor de banco de dados no Azure
-![Criar servidor de banco de dados](images/criar-servidor-banco-dados.png)
+### 1. Criar servidor de banco de dados
+![Criar servidor SQL](images/criar-servidor-banco-dados.png)
 
 ### 2. Configuração do banco de dados
-![Configuração do banco de dados](images/configuracao-banco-dados.png)
+![Configuração do banco](images/configuracao-banco-dados.png)
 
-### 3. Autenticação e regras de firewall
-![Autenticação do servidor SQL](images/autenticacao-servidor-sql.png)
+### 3. Autenticação
+![Autenticação SQL](images/autenticacao-servidor-sql.png)
 
-### 4. Detalhes do produto selecionado
+### 4. Detalhes do servidor
+![Detalhes do servidor](images/detalhes-servidor-sql.png)
+
+### 5. Detalhes do produto SQL
 ![Detalhes do produto SQL](images/detalhes-produto-sql.png)
 
-### 5. Implantação da instância
-![Implantação em andamento](images/implantacao-em-andamento.png)  
+### 6. Implantação em andamento
+![Implantação em andamento](images/implantacao-em-andamento.png)
+
+### 7. Implantação concluída
 ![Implantação concluída](images/implantar-banco-dados-concluida.png)
 
-### 6. Detalhes finais do servidor SQL criado
-![Detalhes do servidor SQL](images/detalhes-servidor-sql.png)
 
 ## 📚 Aprendizados
 
